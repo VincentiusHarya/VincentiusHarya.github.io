@@ -1,0 +1,70 @@
+.card {
+    margin: 10%;
+}
+
+.container-fluid {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.icons {
+    margin: 0% 1%;
+    margin-top: 0.5%;
+    text-decoration: none;
+    display: inline-block;
+    transition: transform .2s;
+}
+
+.icons:hover {
+    transform: scale(1.1);
+}
+
+#top-container {
+    padding: 10%; 
+    background-color: rgb(65, 65, 65);
+    color: white;
+}
+
+#top-container h1 {
+    font-weight: bold;
+    font-size: 80px;
+}
+
+#middle-container {
+    font-size: 22px;
+}
+
+#about-title {
+    margin-top: 5%;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#about-text {
+    margin: 4% 20%;
+}
+
+#projects-title {
+    margin-top: 8%;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#contacts-title {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#footer {
+    padding-top: 5%;
+    padding-bottom: 0.1%;
+    background-color: rgb(65, 65, 65);
+    color: white;
+}
+
+#address {
+    margin: 0;
+}
+
+#copyright {
+    float: right;
+}
